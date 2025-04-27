@@ -1,5 +1,5 @@
 
-# 🌼 Northville4Bees Website
+# Northville4Bees Website
 
 Welcome to the official GitHub repository for the **Northville4Bees** website!
 
@@ -7,7 +7,7 @@ Northville4Bees is a community-driven initiative focused on spreading awareness 
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This website serves as:
 - An information hub about bee conservation and pollinator gardening
@@ -16,7 +16,7 @@ This website serves as:
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS
@@ -61,4 +61,4 @@ This project is licensed under the [MIT License](LICENSE).
 - Nextdoor: [Coming Soon]
 - Facebook: [Coming Soon]
 
-Together, we can build a bee-friendly future — one garden at a time! 🐝🌱
+Together, we can build a bee-friendly future — one garden at a time!
