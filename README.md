@@ -47,12 +47,6 @@ Future Plans:
 - Caleb (CMO)
 
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Connect With Us
 
 - Website: https://northville4bees.github.io/n4b/
