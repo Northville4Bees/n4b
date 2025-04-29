@@ -60,3 +60,15 @@ h2 {
     color: #ffcc00;
     text-decoration: underline;
 }
+.button {
+    color: #333;
+    padding: 10px 20px;
+    border: elliptical;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.button:hover {
+    background-color: #ffcc00;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
